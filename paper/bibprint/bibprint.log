@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.7)  14 APR 2025 00:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.7)  14 APR 2025 01:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**topic-sel
-(./topic-sel.tex
+**bibprint
+(./bibprint.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 
@@ -12,8 +12,8 @@ rticle.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 
 (/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/base/s
-ize12.clo
-File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+ize10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
 \c@section=\count197
@@ -26,10 +26,6 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-)
-(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/setspa
-ce/setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
 )
 (/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/biblat
 ex/biblatex.sty
@@ -367,25 +363,29 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
+(/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/setspa
+ce/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
 \@quotelevel=\count408
 \@quotereset=\count409
- (./topic-sel.aux)
-\openout1 = `topic-sel.aux'.
+ (./bibprint.aux)
+\openout1 = `bibprint.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 
@@ -421,17 +421,17 @@ File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `topic-sel.bcf'.
+\openout3 = `bibprint.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'topic-sel.bbl' found.
- (./topic-sel.bbl)
-Package biblatex Info: Reference section=0 on input line 15.
-Package biblatex Info: Reference segment=0 on input line 15.
+Package biblatex Info: ... file 'bibprint.bbl' found.
+ (./bibprint.bbl)
+Package biblatex Info: Reference section=0 on input line 8.
+Package biblatex Info: Reference segment=0 on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 17.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
+(Font)              <5> on input line 11.
 
 
 [1
@@ -439,44 +439,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/data/data/com.termux/files/usr/share/texlive/2025/texmf-var/fonts/map/pdftex/
 updmap/pdftex.map}]
 
-[2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 69.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 69.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 69.
-
-
-[3]
-
-[4] (./topic-sel.aux)
+[2] (./bibprint.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package logreq Info: Writing requests to 'topic-sel.run.xml'.
-\openout1 = `topic-sel.run.xml'.
+Package logreq Info: Writing requests to 'bibprint.run.xml'.
+\openout1 = `bibprint.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9588 strings out of 473197
- 193296 string characters out of 5701897
- 1111004 words of memory out of 5000000
- 32800 multiletter control sequences out of 15000+600000
- 564045 words of font info for 53 fonts, out of 8000000 for 9000
+ 9561 strings out of 473197
+ 192887 string characters out of 5701897
+ 1111871 words of memory out of 5000000
+ 32781 multiletter control sequences out of 15000+600000
+ 559788 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,81p,1468b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,5n,81p,1467b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb></data/data/com.termux/files/usr/share/texlive/2025
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></data/data/com.termux/fil
-es/usr/share/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb>
-Output written on topic-sel.pdf (4 pages, 66164 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></data/data/com.termux/fil
+es/usr/share/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+
+Output written on bibprint.pdf (2 pages, 53338 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 26 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
