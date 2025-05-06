@@ -1,0 +1,5 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'proposal-outline.aux.blg'
+[95] biber:340> INFO - === Thu Apr 24, 2025, 14:37:19
+[157] Utils.pm:399> ERROR - Cannot find 'proposal-outline.aux.bcf'!
+[158] Biber.pm:135> INFO - ERRORS: 1

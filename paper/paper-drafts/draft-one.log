@@ -1,0 +1,665 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.4.21)  28 APR 2025 19:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**draft-one.tex
+(./draft-one.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count195
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count196
+\c@listtotal=\count197
+\c@listcount=\count198
+\c@liststart=\count199
+\c@liststop=\count266
+\c@citecount=\count267
+\c@citetotal=\count268
+\c@multicitecount=\count269
+\c@multicitetotal=\count270
+\c@instcount=\count271
+\c@maxnames=\count272
+\c@minnames=\count273
+\c@maxitems=\count274
+\c@minitems=\count275
+\c@citecounter=\count276
+\c@maxcitecounter=\count277
+\c@savedcitecounter=\count278
+\c@uniquelist=\count279
+\c@uniquename=\count280
+\c@refsection=\count281
+\c@refsegment=\count282
+\c@maxextratitle=\count283
+\c@maxextratitleyear=\count284
+\c@maxextraname=\count285
+\c@maxextradate=\count286
+\c@maxextraalpha=\count287
+\c@abbrvpenalty=\count288
+\c@highnamepenalty=\count289
+\c@lownamepenalty=\count290
+\c@maxparens=\count291
+\c@parenlevel=\count292
+\blx@tempcnta=\count293
+\blx@tempcntb=\count294
+\blx@tempcntc=\count295
+\c@blx@maxsection=\count296
+\blx@maxsegment@0=\count297
+\blx@notetype=\count298
+\blx@parenlevel@text=\count299
+\blx@parenlevel@foot=\count300
+\blx@sectionciteorder@0=\count301
+\blx@sectionciteorderinternal@0=\count302
+\blx@entrysetcounter=\count303
+\blx@biblioinstance=\count304
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language5
+\c@mincomprange=\count305
+\c@maxcomprange=\count306
+\c@mincompwidth=\count307
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2022/06/22 v9.16 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count308
+\c@savedafterword=\count309
+\c@annotator=\count310
+\c@savedannotator=\count311
+\c@author=\count312
+\c@savedauthor=\count313
+\c@bookauthor=\count314
+\c@savedbookauthor=\count315
+\c@commentator=\count316
+\c@savedcommentator=\count317
+\c@editor=\count318
+\c@savededitor=\count319
+\c@editora=\count320
+\c@savededitora=\count321
+\c@editorb=\count322
+\c@savededitorb=\count323
+\c@editorc=\count324
+\c@savededitorc=\count325
+\c@foreword=\count326
+\c@savedforeword=\count327
+\c@holder=\count328
+\c@savedholder=\count329
+\c@introduction=\count330
+\c@savedintroduction=\count331
+\c@namea=\count332
+\c@savednamea=\count333
+\c@nameb=\count334
+\c@savednameb=\count335
+\c@namec=\count336
+\c@savednamec=\count337
+\c@translator=\count338
+\c@savedtranslator=\count339
+\c@shortauthor=\count340
+\c@savedshortauthor=\count341
+\c@shorteditor=\count342
+\c@savedshorteditor=\count343
+\c@narrator=\count344
+\c@savednarrator=\count345
+\c@execproducer=\count346
+\c@savedexecproducer=\count347
+\c@execdirector=\count348
+\c@savedexecdirector=\count349
+\c@with=\count350
+\c@savedwith=\count351
+\c@labelname=\count352
+\c@savedlabelname=\count353
+\c@institution=\count354
+\c@savedinstitution=\count355
+\c@lista=\count356
+\c@savedlista=\count357
+\c@listb=\count358
+\c@savedlistb=\count359
+\c@listc=\count360
+\c@savedlistc=\count361
+\c@listd=\count362
+\c@savedlistd=\count363
+\c@liste=\count364
+\c@savedliste=\count365
+\c@listf=\count366
+\c@savedlistf=\count367
+\c@location=\count368
+\c@savedlocation=\count369
+\c@organization=\count370
+\c@savedorganization=\count371
+\c@origlocation=\count372
+\c@savedoriglocation=\count373
+\c@origpublisher=\count374
+\c@savedorigpublisher=\count375
+\c@publisher=\count376
+\c@savedpublisher=\count377
+\c@language=\count378
+\c@savedlanguage=\count379
+\c@origlanguage=\count380
+\c@savedoriglanguage=\count381
+\c@citation=\count382
+\c@savedcitation=\count383
+\c@pageref=\count384
+\c@savedpageref=\count385
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count386
+\c@textcitetotal=\count387
+\c@textcitemaxnames=\count388
+\c@biburlbigbreakpenalty=\count389
+\c@biburlbreakpenalty=\count390
+\c@biburlnumpenalty=\count391
+\c@biburlucpenalty=\count392
+\c@biburllcpenalty=\count393
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count394
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2022/06/22 v9.16 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count395
+\c@bbx:relatedtotal=\count396
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2022/06/22 v9.16 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-01-16 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count397
+\l__pdf_internal_box=\box51
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2023-01-16 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-01-16 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
+))
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count398
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count399
+\leftroot@=\count400
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count401
+\DOTSCASE@=\count402
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count403
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count404
+\dotsspace@=\muskip21
+\c@parentequation=\count405
+\dspbrk@lvl=\count406
+\tag@help=\toks20
+\row@=\count407
+\column@=\count408
+\maxfields@=\count409
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count410
+\cp@tempcnt=\count411
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count412
+\csq@gtype=\count413
+\csq@glevel=\count414
+\csq@qlevel=\count415
+\csq@maxlvl=\count416
+\csq@tshold=\count417
+\csq@ltx@everypar=\toks24
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+No file draft-one.aux.
+\openout1 = `draft-one.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+File: english-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+File: american-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+))))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `draft-one.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'draft-one.bbl' not found.
+
+No file draft-one.bbl.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
+
+LaTeX Warning: Citation 'attica-report' on page 2 undefined on input line 108.
+
+
+LaTeX Warning: Citation 'letters-from-attica' on page 2 undefined on input line
+ 109.
+
+
+Overfull \hbox (11.13104pt too wide) in paragraph at lines 108--110
+[]\OT1/cmr/m/n/10 racial makeup - 64% black in-mate pop-u-la-tion in D yard,([]
+)
+ []
+
+
+LaTeX Warning: Citation 'blood-in-water' on page 2 undefined on input line 112.
+
+
+
+LaTeX Warning: Citation 'blood-in-water' on page 2 undefined on input line 114.
+
+
+[2]
+
+LaTeX Warning: Citation 'life-of-paper' on page 3 undefined on input line 127.
+
+
+Overfull \hbox (25.2209pt too wide) in paragraph at lines 126--128
+[]\OT1/cmr/m/n/10 ``one's habits and abil-i-ties are judged by his letters"([])
+ 
+ []
+
+
+LaTeX Warning: Citation 'life-of-paper' on page 3 undefined on input line 131.
+
+
+Overfull \hbox (36.10986pt too wide) in paragraph at lines 129--132
+\OT1/cmr/m/n/10 out of in-dif-fer-ence or be-cause of a lack of imagination"([]
+) 
+ []
+
+
+LaTeX Warning: Citation 'letters-from-attica' on page 3 undefined on input line
+ 136.
+
+
+Overfull \hbox (21.36098pt too wide) in paragraph at lines 133--137
+\OT1/cmr/m/n/10 with whom one has ver-bal communication"([]) 
+ []
+
+
+LaTeX Warning: Citation 'letters-from-attica' on page 3 undefined on input line
+ 139.
+
+
+Overfull \hbox (17.97095pt too wide) in paragraph at lines 138--140
+\OT1/cmr/m/n/10 I don't re-ally have much to say, evidently."([]) 
+ []
+
+
+LaTeX Warning: Citation 'life-of-paper' on page 3 undefined on input line 147.
+
+
+LaTeX Warning: Citation 'life-of-paper' on page 3 undefined on input line 157.
+
+[3]
+
+LaTeX Warning: Citation 'soul-on-ice' on page 4 undefined on input line 172.
+
+
+Overfull \hbox (30.31152pt too wide) in paragraph at lines 170--173
+\OT1/cmr/m/n/10 re-ally stopped to take stock of what I was in-volved in."([]) 
+
+ []
+
+
+LaTeX Warning: Citation 'soul-on-ice' on page 4 undefined on input line 174.
+
+
+LaTeX Warning: Citation 'soul-on-ice' on page 4 undefined on input line 176.
+
+
+LaTeX Warning: Citation 'soul-on-ice' on page 4 undefined on input line 177.
+
+
+Overfull \hbox (4.7466pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/10 ``That is why I started to write. To save myself."([]) 
+ []
+
+
+LaTeX Warning: Citation 'soledad-brother' on page 4 undefined on input line 184
+.
+
+
+LaTeX Warning: Citation 'soledad-brother' on page 4 undefined on input line 188
+.
+
+
+LaTeX Warning: Citation 'soledad-brother' on page 4 undefined on input line 191
+.
+
+
+LaTeX Warning: Citation 'letters-from-attica' on page 4 undefined on input line
+ 194.
+
+
+LaTeX Warning: Citation 'coming-together' on page 4 undefined on input line 195
+.
+
+
+Overfull \hbox (7.1387pt too wide) in paragraph at lines 193--196
+\OT1/cmr/m/n/10 men i can act with clar-ity and meaning"([])
+ []
+
+[4]
+
+LaTeX Warning: Citation 'prisoners-voices' on page 5 undefined on input line 21
+5.
+
+[5]
+
+LaTeX Warning: Empty bibliography on input line 241.
+
+(./draft-one.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                draft-one
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'draft-one.run.xml'.
+\openout1 = `draft-one.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10744 strings out of 478008
+ 206883 string characters out of 5839802
+ 1856330 words of memory out of 5000000
+ 30803 multiletter control sequences out of 15000+600000
+ 517590 words of font info for 50 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 63i,6n,68p,682b,5044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/user/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600p
+k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on draft-one.pdf (6 pages, 92776 bytes).
+PDF statistics:
+ 59 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
