@@ -163,6 +163,42 @@
       \verb http://www.jstor.org/stable/23711135
       \endverb
     \endentry
+    \entry{pew-alone}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cd6ec54615d9913dc010edc82534cbe4}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Gretchen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pew Research Center}%
+      }
+      \strng{namehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{fullhash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{bibnamehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{authorbibnamehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{authornamehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{authorfullhash}{cd6ec54615d9913dc010edc82534cbe4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pew Research Center}
+      \field{month}{7}
+      \field{title}{On average, older adults spend over half their waking hours alone}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/short-reads/2019/07/03/on-average-older-adults-spend-over-half-their-waking-hours-alone/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/short-reads/2019/07/03/on-average-older-adults-spend-over-half-their-waking-hours-alone/
+      \endverb
+    \endentry
     \entry{life-of-paper}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c48da334f0e3451e1cd67eb18665474a}{%
@@ -729,6 +765,42 @@
       \endverb
       \verb{url}
       \verb http://www.jstor.org/stable/23711135
+      \endverb
+    \endentry
+    \entry{pew-alone}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cd6ec54615d9913dc010edc82534cbe4}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Gretchen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pew Research Center}%
+      }
+      \strng{namehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{fullhash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{bibnamehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{authorbibnamehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{authornamehash}{cd6ec54615d9913dc010edc82534cbe4}
+      \strng{authorfullhash}{cd6ec54615d9913dc010edc82534cbe4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pew Research Center}
+      \field{month}{7}
+      \field{title}{On average, older adults spend over half their waking hours alone}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/short-reads/2019/07/03/on-average-older-adults-spend-over-half-their-waking-hours-alone/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/short-reads/2019/07/03/on-average-older-adults-spend-over-half-their-waking-hours-alone/
       \endverb
     \endentry
     \entry{life-of-paper}{book}{}
