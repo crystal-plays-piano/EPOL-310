@@ -330,6 +330,7 @@
       \field{volume}{38}
       \field{year}{2021}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{pp. 109\bibrangedash 139}
       \range{pages}{-1}
       \verb{urlraw}
@@ -408,6 +409,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Attica: The Official Report of the New York State Special Commission on Attica}
       \field{year}{1972}
+      \true{nocite}
     \endentry
     \entry{oswald-attica}{book}{}
       \name{author}{1}{}{%
@@ -967,6 +969,7 @@
       \field{volume}{38}
       \field{year}{2021}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{pp. 109\bibrangedash 139}
       \range{pages}{-1}
       \verb{urlraw}
@@ -1045,6 +1048,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Attica: The Official Report of the New York State Special Commission on Attica}
       \field{year}{1972}
+      \true{nocite}
     \endentry
     \entry{oswald-attica}{book}{}
       \name{author}{1}{}{%
