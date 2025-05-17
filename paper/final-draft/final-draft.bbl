@@ -227,6 +227,40 @@
       \field{title}{The Life of Paper: Letters and a poetics of living beyond captivity}
       \field{year}{2018}
     \endentry
+    \entry{atticas-ashes}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=cc035c57a87038ecc283c173ad172741}{%
+           family={Melville},
+           familyi={M\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{fullhash}{cc035c57a87038ecc283c173ad172741}
+      \strng{bibnamehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{authorbibnamehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{authornamehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{authorfullhash}{cc035c57a87038ecc283c173ad172741}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New York History}
+      \field{title}{Attica's Ashes}
+      \field{volume}{102}
+      \field{year}{2021}
+      \field{pages}{38\bibrangedash 46}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:240947356
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:240947356
+      \endverb
+    \endentry
     \entry{letters-from-attica}{book}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3dff1d881a70def9b2b57db06efb4b8a}{%
@@ -255,7 +289,6 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Letters from Attica}
@@ -831,6 +864,40 @@
       \field{title}{The Life of Paper: Letters and a poetics of living beyond captivity}
       \field{year}{2018}
     \endentry
+    \entry{atticas-ashes}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=cc035c57a87038ecc283c173ad172741}{%
+           family={Melville},
+           familyi={M\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{fullhash}{cc035c57a87038ecc283c173ad172741}
+      \strng{bibnamehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{authorbibnamehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{authornamehash}{cc035c57a87038ecc283c173ad172741}
+      \strng{authorfullhash}{cc035c57a87038ecc283c173ad172741}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New York History}
+      \field{title}{Attica's Ashes}
+      \field{volume}{102}
+      \field{year}{2021}
+      \field{pages}{38\bibrangedash 46}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:240947356
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:240947356
+      \endverb
+    \endentry
     \entry{letters-from-attica}{book}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3dff1d881a70def9b2b57db06efb4b8a}{%
@@ -859,7 +926,6 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Letters from Attica}
